@@ -1,5 +1,5 @@
 # SeoBokMin / 서복민
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seobok&show_icons=true&theme=shadow_green)
+![Seobok's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seobok&show_icons=true&theme=shadow_green)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seobok&layout=compact)
 #
 ### :computer: PROJECT:computer:
