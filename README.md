@@ -15,6 +15,8 @@
 <img src="https://img.shields.io/badge/Java-FF9E0F?style=flat&logo=eclipseide&logoColor=2C2255"/> <a href="https://github.com/hchbae1001/team17_tetris"><img src="https://img.shields.io/badge/team17_tetris-FF9E0F?style=flat"/></a>
 <a href="https://github.com/Seobok/hanabi"><img src="https://img.shields.io/badge/hanabi-FF9E0F?style=flat"/></a>
 
+Project 이름을 클릭하여 해당 Repo로 이동할 수 있습니다.
+
 ### :school: ABOUT ME :school:
 - 2017.02	통영고등학교 졸업
 - 2018~2024 게임 개발 동아리 PLUM 활동
