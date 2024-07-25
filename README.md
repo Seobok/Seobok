@@ -1,7 +1,5 @@
 # SeoBokMin / 서복민
-![Seobok's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seobok&show_icons=true&theme=shadow_green)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seobok&layout=compact)
-#
+
 ### :computer: PROJECT:computer:
 <img src="https://img.shields.io/badge/UnrealEngine-ffffff?style=flat&logo=Unreal Engine&logoColor=0E1128"/> <a href="https://github.com/SR-PLUM/SidheRigel"><img src="https://img.shields.io/badge/SidheRigel-ffffff?style=flat" /></a>
 <a href="https://github.com/SR-PLUM/SolRising"><img src="https://img.shields.io/badge/SolRising-ffffff?style=flat"/></a>
