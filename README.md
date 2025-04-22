@@ -12,7 +12,7 @@
 <a href="https://github.com/dobakHero/dobakHero"><img src="https://img.shields.io/badge/dobakHero-000000?style=flat" /></a>
 <a href="https://github.com/Seobok/VendingMachine"><img src="https://img.shields.io/badge/VendingMachine-000000?style=flat" /></a>
 
-<img src="https://img.shields.io/badge/UnrealEngine-ffffff?style=flat&logo=Unreal Engine&logoColor=0E1128"/> <a href="https://github.com/SR-PLUM/SidheRigel"><img src="https://img.shields.io/badge/SidheRigel-ffffff?style=flat" /></a>
+<img src="https://img.shields.io/badge/UnrealEngine-ffffff?style=flat&logo=UnrealEngine&logoColor=0E1128"/> <a href="https://github.com/SR-PLUM/SidheRigel"><img src="https://img.shields.io/badge/SidheRigel-ffffff?style=flat" /></a>
 <a href="https://github.com/SR-PLUM/SolRising"><img src="https://img.shields.io/badge/SolRising-ffffff?style=flat"/></a>
 
 
